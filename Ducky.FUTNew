@@ -1,3 +1,1 @@
-script_key = "trial"
-
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/40e0883fa1563b68c7b532d8b685b6332f1a61bdb48075d2d2e17dee1e6098d8.lua"))()
+loadstring(game:HttpGet("https://api.xhider.xyz/files/v4/loaders/f2a915d92bc8dbe84d8f68c1835fce5b.lua"))()
